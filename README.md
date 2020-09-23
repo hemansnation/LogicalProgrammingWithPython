@@ -5,5 +5,11 @@ Day 1 : Python First Session<br>
 Day 2 : Conditional Statements<br>
 Day 3 : While Loops<br>
 Day 4 : Lists<br>
-Day 5 : 
+Day 5 : String<br>
+Day 6 : For Loops<br>
+Day 7 : Functions<br>
+Day 8 : Dictionary<br>
+Day 9 : Tuple<br>
+Day 10 : Sets<br>
+Day 11 : Data Structures<br>
 
