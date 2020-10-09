@@ -18,3 +18,13 @@ Day 14 : Sorting<br>
 Day 15 : Sorting Part 2<br>
 Day 16 : Exception Handling<br>
 Day 17 : File Handling<br>
+Day 18 : Object Orientation Part 1<br>
+Day 19 : Object Orientation Part 2<br>
+Day 20 : Object Orientation Part 3 Inheritance<br>
+Day 21 : Object Orientation Part 4 Method Overloading, Overriding<br>
+Day 22 : Regular Expresion<br>
+Day 23 : Modules<br>
+Day 24 : Magic Methods<br>
+Day 25 : Data Structures Using Class<br>
+Day 26 : Stack and Queue using Class<br>
+Day 27 : Linked List using Class<br>
